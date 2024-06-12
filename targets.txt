@@ -1,0 +1,30 @@
+aims:
+
++M̶a̶k̶e̶ ̶C̶a̶s̶i̶n̶o
+
++add ability to die and respawn
+
++cars 
+
++travel to holiday
+
++have kids ect 
+
++a̶d̶d̶ ̶i̶l̶l̶n̶e̶s̶s̶e̶s̶ ̶
+
++add friends
+
+
+
++add more jobs
+
++add more assets
+
++recreational activitys 
+
++Natural Disaster.... YESSSS
+
+add ability to set off a virus (E-virus, or pathogen)
+
+The cmd will be : python3 adv.py --unprotected -up
+
